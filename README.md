@@ -6,3 +6,6 @@ Famous and commonly used grid layout types in CSS
 
 ## Holy Grail
 ![alt text](image-3.png)
+
+## Masonry Style Layout
+![alt text](image-4.png)
